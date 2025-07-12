@@ -1,0 +1,11 @@
+{
+  "name": "json2sql",
+  "version": "1.0.0",
+  "description": "Convert JSON to SQL INSERT statements",
+  "main": "src/cli.js",
+  "bin": {
+    "json2sql": "./src/cli.js"
+  },
+  "author": "Catelix",
+  "license": "MIT"
+}
